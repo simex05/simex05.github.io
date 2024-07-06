@@ -46,17 +46,17 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
-about_profile_image: images/profile.jpg
+about_title: Presentazione
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Sono un neodiplomato in Informatica e Telecomunicazioni all'IIS Amedeo Avogadro di Torino, con una solida preparazione teorica e pratica in informatica. Ho partecipato a varie competizioni, come OliCyber, le Olimpiadi Italiane di Informatica (sia a squadre che individuali) e, più recentemente, CANSAT. Queste esperienze mi hanno permesso di acquisire conoscenze ed esperienza sia nell'ambito informatico che in quello progettuale.
   
 
 content:
-  - title: Projects # Title for the section
+  - title: Progetti # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: CANSAT con il team AvoVoyagers
         link: cansat.itisavogadro.org
         link_text: cansat.itisavogadro.org
