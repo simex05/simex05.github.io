@@ -53,6 +53,53 @@ about_content: | # this will include new lines to allow paragraphs
   
 
 content:
+  - title: Istruzione e formazione # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Diploma di perito in informatica e telecomunicazioni (con voto 93/100)
+        caption: 2019 - 2024
+        sub_title: Presso l'IIS Amedeo Avogadro di Torino
+#        quote: >
+#          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          Durante i miei studi all'IIS Amedeo Avogadro, oltre ad aver appreso nozioni di informatica e di elettronica di base, ho avuto l'occasione di svolgere diverse attività come competizioni e corsi:
+          - Corso HTML-CSS attraverso la piattaforma HackersGen dell'azienda SORINT (2022)
+          - Corso LINUX BASE attraverso la piattaforma HackersGen dell'azienda SORINT (2022)
+          - Corso LINUX BASH SCRIPTING attraverso la piattaforma HackersGen dell'azienda SORINT (2023)
+          - Competizione OliCyber organizzata dal Cybersecurity National Lab (2023 e 2024)
+          - Competizione CyberChallenge organizzata dal Cybersecurity National Lab (2023)
+          - Competizione OIS ("Olimpiadi di Informatica a Squadre") (2022 e 2023)
+          - Competizione OII ("Olimpiadi di Informatica Individuali") (2022 e 2023)
+          - Competizione CANSAT organizzato dall'ESERO (programma dell'ESA e dell'ASI) (2024)
+          
+      - layout: left
+        title: Olicyber Training Camp
+        caption: 2023
+        sub_title: Presso il Cybersecurity National Lab del CINI
+        quote: >
+          OliCyber sta per "Olimpiadi Italiane di Cybersicurezza" ed è una competizione organizzata dal Cybersecurity National Lab del CINI
+        description: | # this will include new lines to allow paragraphs
+          L'Olicyber Training Camp è un programma di formazione intensiva con l'obiettivo di formare i partecipanti alla competizione OliCyber, sviluppando le loro competenze tecniche e pratiche nel campo della sicurezza informatica attraverso una settimana di lezioni su crittografia, scripting, network security, web security e software security svolte dai membri della squadra di CTF del Team ITALY.
+          Partecipare a questo programma mi ha permesso di sviluppare competenze nell'ambito della sicurezza informatica e di conoscere molte persone da tutta Italia con cui confrontarmi.
+
+  - title: Esperienze lavorative # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Erasmus+
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Presso Asociación Arrabal-AID
+        caption: Giugno 2023
+#        quote: >
+#          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Ho partecipato ad un esperienza Erasmus+ di un mese a Malaga, in Spagna.
+            Durante questo Erasmus, ho lavorato per l'Asociación Arrabal-AID progettando e programmando un quiz-videogame da 0 (ovviamente in team).
+            Mi sono occupato del back-end (Java), del front-end (HTML, CSS e JavaScript) e della configurazione del server su cui il videogioco veniva hostato.
+
+
   - title: Progetti # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -78,38 +125,7 @@ content:
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
 #        description: | # this will include new lines to allow paragraphs
-#            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
-  - title: Istruzione e formazione # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Diploma di perito in informatica e telecomunicazioni (con voto 93/100)
-        caption: 2019 - 2024
-        sub_title: Presso l'IIS Amedeo Avogadro di Torino
-#        quote: >
-#          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          Durante i miei studi all'IIS Amedeo Avogadro, oltre ad aver appreso nozioni di informatica e di elettronica di base, ho avuto l'occasione di svolgere diverse attività come competizioni e corsi:
-          - Corso HTML-CSS attraverso la piattaforma HackersGen dell'azienda SORINT (2022)
-          - Corso LINUX BASE attraverso la piattaforma HackersGen dell'azienda SORINT (2022)
-          - Corso LINUX BASH SCRIPTING attraverso la piattaforma HackersGen dell'azienda SORINT (2023)
-          - Competizione OliCyber organizzata dal Cybersecurity National Lab (2023 e 2024)
-          - Combetizione CyberChallenge organizzata dal Cybersecurity National Lab (2023)
-          - Competizione OIS ("Olimpiadi di Informatica a Squadre") (2022 e 2023)
-          - Competizione OII ("Olimpiadi di Informatica Individuali") (2022 e 2023)
-          - Competizione CANSAT organizzato dall'ESERO (programma dell'ESA e dell'ASI) (2024)
-          
-      - layout: left
-        title: Olicyber Training Camp
-        caption: 2023
-        sub_title: Presso il Cybersecurity National Lab del CINI
-        quote: >
-          OliCyber sta per "Olimpiadi Italiane di Cybersicurezza" ed è una competizione organizzata dal Cybersecurity National Lab del CINI
-        description: | # this will include new lines to allow paragraphs
-          L'Olicyber Training Camp è un programma di formazione intensiva con l'obiettivo di formare i partecipanti alla competizione OliCyber, sviluppando le loro competenze tecniche e pratiche nel campo della sicurezza informatica attraverso una settimana di lezioni su crittografia, scripting, network security, web security e software security svolte dai membri della squadra di CTF del Team ITALY.
-          Partecipare a questo programma mi ha permesso di sviluppare competenze nell'ambito della sicurezza informatica e di conoscere molte persone da tutta Italia con cui confrontarmi.
-          
+#            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.       
 
 
 #  - title: A Little More About Me
