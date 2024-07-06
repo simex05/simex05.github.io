@@ -49,7 +49,9 @@ github_username:  simex05
 about_title: Presentazione
 #about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Sono un neodiplomato in Informatica e Telecomunicazioni all'IIS Amedeo Avogadro di Torino, con una solida preparazione teorica e pratica in informatica. Ho partecipato a varie competizioni, come OliCyber, le Olimpiadi Italiane di Informatica (sia a squadre che individuali) e, più recentemente, CANSAT. Queste esperienze mi hanno permesso di acquisire conoscenze ed esperienza sia nell'ambito informatico che in quello progettuale.
+  Sono un neodiplomato in Informatica e Telecomunicazioni all'IIS Amedeo Avogadro di Torino, con una solida preparazione teorica e pratica in informatica.<br>
+  Ho partecipato a varie competizioni, come OliCyber, le Olimpiadi Italiane di Informatica (sia a squadre che individuali) e, più recentemente, CANSAT.<br>
+  Queste esperienze mi hanno permesso di acquisire conoscenze ed esperienza sia nell'ambito informatico che in quello progettuale.
   
 
 content:
