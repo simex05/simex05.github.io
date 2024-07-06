@@ -80,7 +80,7 @@ content:
         quote: >
           OliCyber sta per "Olimpiadi Italiane di Cybersicurezza" ed è una competizione organizzata dal Cybersecurity National Lab del CINI
         description: | # this will include new lines to allow paragraphs
-          L'Olicyber Training Camp è un programma di formazione intensiva con l'obiettivo di formare i partecipanti alla competizione OliCyber, sviluppando le loro competenze tecniche e pratiche nel campo della sicurezza informatica attraverso una settimana di lezioni su crittografia, scripting, network security, web security e software security svolte dai membri della squadra di CTF del Team ITALY.
+          L'Olicyber Training Camp è un programma di formazione intensiva con l'obiettivo di formare i partecipanti alla competizione OliCyber, sviluppando le loro competenze tecniche e pratiche nel campo della sicurezza informatica attraverso una settimana di lezioni su crittografia, scripting, network security, web security e software security svolte dai membri della squadra di CTF del Team ITALY. <br>
           Partecipare a questo programma mi ha permesso di sviluppare competenze nell'ambito della sicurezza informatica e di conoscere molte persone da tutta Italia con cui confrontarmi.
 
   - title: Esperienze lavorative # Title for the section
@@ -96,7 +96,7 @@ content:
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             Ho partecipato ad un progetto Erasmus+ della durata di un mese a Malaga (Spagna).
-            Durante questa esperienza, ho lavorato per l'Asociación Arrabal-AID progettando e programmando un quiz-videogame da 0 (ovviamente in team).
+            Durante questa esperienza, ho lavorato per l'Asociación Arrabal-AID progettando e programmando, in team, un quiz-videogame da zero.<br>
             Mi sono occupato del back-end (Java), del front-end (HTML, CSS e JavaScript) e della configurazione del server su cui il videogioco veniva hostato.
 
 
@@ -110,8 +110,9 @@ content:
         quote: >
           CANSAT è un progetto educativo internazionale organizzato in Italia dall'ESERO (un programma dell'ESA e dell'ASI) che sfida gli studenti a costruire e lanciare un piccolo satellite delle dimensioni di una lattina. 
         description: | # this will include new lines to allow paragraphs
-          Ho progettato, costruito e programmato un CanSat con la squadra AvoVoyagers dell'IIS Amedeo Avogadro di Torino arrivando alla fase nazionale svolte a Bologna presso il campo volo Molinella, in cui il mini-satellite è stato lanciato con un razzo a 1000m di altezza.
-          È stata una gran soddisfazione vedere questo progetto durato mesi arrivare alle fasi nazionali per poi essere usato per quello per cui è stato progettato.
+          Ho progettato, costruito e programmato un CanSat con la squadra AvoVoyagers dell'IIS Amedeo Avogadro di Torino arrivando alla fase nazionale svoltasi a Bologna, presso il campo volo Molinella. <br>
+          Durante la fase finale il mini-satellite è stato lanciato con un razzo a 1000m di altezza.<br>
+          È stata una gran soddisfazione vedere questo progetto durato mesi essere usato per quello per cui è stato progettato.
 
 #  - title: Experience # Title for the section
 #    layout: list # Type of content section (list/text)
