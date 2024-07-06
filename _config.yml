@@ -48,29 +48,22 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Sono un neodiplomato in Informatica e Telecomunicazioni all'IIS Amedeo Avogadro di Torino, con una solida preparazione teorica e pratica in informatica. Ho partecipato a varie competizioni, come OliCyber, le Olimpiadi Italiane di Informatica (sia a squadre che individuali) e, più recentemente, CANSAT. Queste esperienze mi hanno permesso di acquisire conoscenze ed esperienza sia nell'ambito informatico che in quello progettuale.
+  
 
 content:
-#  - title: Projects # Title for the section
-#    layout: list # Type of content section (list/text)
-#    content:
-#      - layout: top-middle
-#        title: Super awesome project
-#        link: github.com/sproogen
-#        # link_text: Project Website
-#        additional_links:
-#          - title:  sproogen/modern-resume-theme
-#            icon: fab fa-github
-#            url: github.com/sproogen/modern-resume-theme
-#         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#          #   icon: fab fa-github
-#          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-#        quote: >
-#          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-#        description: | # this will include new lines to allow paragraphs
-#          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: CANSAT con il team AvoVoyagers
+        link: cansat.itisavogadro.org
+        link_text: cansat.itisavogadro.org
+        quote: >
+          CANSAT è un progetto educativo internazionale organizzato in Italia dall'ESERO (un programma dell'ESA e dell'ASI) che sfida gli studenti a costruire e lanciare un piccolo satellite delle dimensioni di una lattina. 
+        description: | # this will include new lines to allow paragraphs
+          Ho progettato, costruito e programmato un CanSat con la squadra AvoVoyagers dell'IIS Amedeo Avogadro di Torino arrivando alla fase nazionale svolte a Bologna presso il campo volo Molinella, in cui il mini-satellite è stato lanciato con un razzo a 1000m di altezza.
+          È stata una gran soddisfazione vedere questo progetto durato mesi arrivare alle fasi nazionali per poi essere usato per quello per cui è stato progettato.
 
 #  - title: Experience # Title for the section
 #    layout: list # Type of content section (list/text)
@@ -90,34 +83,52 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Diploma di perito in informatica e telecomunicazioni
+        title: Diploma di perito in informatica e telecomunicazioni (con voto 93/100)
         caption: 2019 - 2024
         sub_title: Presso l'IIS Amedeo Avogadro di Torino
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+#        quote: >
+#          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          Durante i miei studi all'IIS Amedeo Avogadro, oltre ad aver appreso nozioni di informatica e di elettronica di base, ho avuto l'occasione di svolgere diverse attività come competizioni e corsi:
+          - Corso HTML-CSS attraverso la piattaforma HackersGen dell'azienda SORINT (2022)
+          - Corso LINUX BASE attraverso la piattaforma HackersGen dell'azienda SORINT (2022)
+          - Corso LINUX BASH SCRIPTING attraverso la piattaforma HackersGen dell'azienda SORINT (2023)
+          - Competizione OliCyber organizzata dal Cybersecurity National Lab (2023 e 2024)
+          - Combetizione CyberChallenge organizzata dal Cybersecurity National Lab (2023)
+          - Competizione OIS ("Olimpiadi di Informatica a Squadre") (2022 e 2023)
+          - Competizione OII ("Olimpiadi di Informatica Individuali") (2022 e 2023)
+          - Competizione CANSAT organizzato dall'ESERO (programma dell'ESA e dell'ASI) (2024)
+          
+      - layout: left
+        title: Olicyber Training Camp
+        caption: 2023
+        sub_title: Presso il Cybersecurity National Lab del CINI
+        quote: >
+          OliCyber sta per "Olimpiadi Italiane di Cybersicurezza" ed è una competizione organizzata dal Cybersecurity National Lab del CINI
+        description: | # this will include new lines to allow paragraphs
+          L'Olicyber Training Camp è un programma di formazione intensiva con l'obiettivo di formare i partecipanti alla competizione OliCyber, sviluppando le loro competenze tecniche e pratiche nel campo della sicurezza informatica attraverso una settimana di lezioni su crittografia, scripting, network security, web security e software security svolte dai membri della squadra di CTF del Team ITALY.
+          Partecipare a questo programma mi ha permesso di sviluppare competenze nell'ambito della sicurezza informatica e di conoscere molte persone da tutta Italia con cui confrontarmi.
+          
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+#  - title: A Little More About Me
+#    layout: text
+#    content: | # this will include new lines to allow paragraphs
+#      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#      - Rock climbing
+#      - Gaming
+#      - Knitting
+#      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+#
+#      Look at this cool image  
+#      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: simex05/simex05.github.io
 
 sass:
   sass_dir: _sass
