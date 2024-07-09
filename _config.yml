@@ -23,7 +23,7 @@ github_username:  simex05
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: jameswgrant
-#linkedin_username: jameswgrant
+linkedin_username: simeonemarco
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -47,7 +47,7 @@ github_username:  simex05
 
 # About Section
 about_title: Presentazione
-#about_profile_image: images/profile.jpg
+about_profile_image: https://media.licdn.com/dms/image/D4D03AQFsuCmSF5yzWA/profile-displayphoto-shrink_200_200/0/1720532974740?e=1726099200&v=beta&t=fS0_3qSMPstg2M07-kLf-881oQo5bnphA-fAnj9YNQk
 about_content: | # this will include new lines to allow paragraphs
   Sono un neodiplomato in Informatica e Telecomunicazioni all'IIS Amedeo Avogadro di Torino, con una solida preparazione teorica e pratica in informatica.<br>
   Ho partecipato a varie competizioni, come OliCyber, le Olimpiadi Italiane di Informatica (sia a squadre che individuali) e, più recentemente, CANSAT.<br>
