@@ -11,6 +11,7 @@ name: Marco Simeone
 #title: Senior Network System Administrator
 email: marcosimeone2005@gmail.com
 website: simex05.github.io
+website_title: Website
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -105,7 +106,7 @@ content:
   - title: Progetti # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: CANSAT con il team AvoVoyagers
         link: cansat.itisavogadro.org
         link_text: cansat.itisavogadro.org
